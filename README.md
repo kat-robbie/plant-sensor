@@ -11,5 +11,7 @@ What I'll need:
 • Photoresistor 
 • 10K-ohm resistors 
 • Potentiometer 
-• LCD display (
+• LCD display
+
+To be continued...
 
